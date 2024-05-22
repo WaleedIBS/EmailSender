@@ -35,9 +35,9 @@ Running the Application
 - 3.	Build the project.
 - 4.	Run the application.
 ## Things to Improve
--	Enhanced Logging: Integrate with a logging framework (e.g., Serilog) for better logging behaviour.
--	Dependency Injection: Using built in services to inject dependency.
--	Email Saving: Keeping record of emails sent and failed.
--	Retry Mechanism: Adding a service for retry failed email.
+-	**Enhanced Logging**: Integrate with a logging framework (e.g., Serilog) for better logging behaviour.
+-	**Dependency Injection**: Using built in services to inject dependency.
+-	**Email Saving**: Keeping record of emails sent and failed.
+-	**Retry Mechanism**: Adding a service for retry failed email.
 
 
